@@ -30,6 +30,8 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+  ReactJS is a javascript library made from Facebook developers. React can be used to easily make compenents and create complex UI. 
+
 1. Describe component state.
 
 1. Describe props.
