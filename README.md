@@ -34,9 +34,15 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. Describe component state.
 
+  States are custom "moods" or "status" that effects a render on a component.
+
 1. Describe props.
 
+  Prop is the propeties passed to a component
+
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+
+  Side effects are actions commited depending on the state of a component. Normally by adding a [], will allow the effect to iterrate once, and having a parameter will sync the effect.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
